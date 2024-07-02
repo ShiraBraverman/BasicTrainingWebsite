@@ -1,0 +1,109 @@
+h1 {
+    color: rgb(106, 84, 154);
+    font-size: 80px;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    margin-right: 75px;
+}
+
+h2 {
+    color: rgb(106, 84, 154) ;
+    font-size: 45px;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    margin-right: 75px;
+}
+
+h3 {
+    color: rgb(106, 84, 154) ;
+    font-size: 45px;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    margin-right: 140px;
+}
+
+.imgs {
+    width: 300px;
+    height: 200px;
+    border: rgb(106, 84, 154) double 4mm;
+    justify-content: center;
+}
+
+td {
+    border: rgb(106, 84, 154) double 1mm;
+    font-size: 25px;
+}
+
+th {
+    border:rgb(106, 84, 154) double 2mm;
+    font-size: 28px;
+}
+
+#img1 {
+    float: left;
+    width: 300px;
+    height: 300px;
+}
+
+ul{
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(106, 84, 154);
+    float: right;
+    position: fixed;
+}
+
+p{
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(0, 0, 1);
+    text-align: right;
+    padding: 20px;
+}
+
+table {
+    margin-right: 100px;
+}
+
+div {
+    margin-right: 150px;
+}
+
+#link {
+    font-size: 30px;
+}
+
+.vd {
+    width: 400px;
+    height: 300px;
+    border: rgb(106, 84, 154) double 4mm;
+    justify-content: center;
+}
+
+label {
+    font-size: 30px;
+}
+
+.title {
+    font-weight: bolder;
+}
+
+section {
+    margin: 100px;
+    margin-left: 800px;
+    background-color: lightpink;
+    border-radius: 20px;
+    border: rgb(106, 84, 154) double 4mm;
+    padding: 50px;
+}
+
+body {
+    background-color: lightpink;
+}
+
+button {
+    float: left;
+    border-radius: 5px;
+    background-color: lightpink;
+    border: rgb(106, 84, 154) double 2mm;
+}
